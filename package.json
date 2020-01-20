@@ -1,0 +1,15 @@
+{
+  "name": "insure-landing-page",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Insure landing page",
+  "scripts": {
+    "dev": "live-server --no-browser"
+  },
+  "devDependencies": {
+    "prettier": "1.19.1",
+    "live-server": "1.2.1"
+  },
+  "keywords": [],
+  "author": "Cristian Trifan",
+  "license": "MIT"
+}
