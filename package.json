@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Frontend Mentor - Insure landing page",
   "scripts": {
-    "dev": "live-server --no-browser"
+    "dev": "live-server"
   },
   "devDependencies": {
     "prettier": "1.19.1",

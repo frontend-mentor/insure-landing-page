@@ -132,5 +132,17 @@
   .intro .intro-mobile {
     justify-self: start;
     margin-top: 0;
+    display: block;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 374px) {
+  .intro .title {
+    padding-top: 70px;
+  }
+
+  .intro .bg-pattern-left-mobile {
+    display: none;
   }
 }

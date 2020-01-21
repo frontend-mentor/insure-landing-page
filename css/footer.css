@@ -107,3 +107,9 @@
     display: none !important;
   }
 }
+
+@media (max-width: 375px) {
+  .app-footer .bg-pattern-mobile {
+    max-width: 100%;
+  }
+}

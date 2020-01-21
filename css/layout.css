@@ -33,12 +33,11 @@ button.inverted:active {
   color: var(--dark-violet);
 }
 
-.container {
-  padding: 0 165px;
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding-bottom: 30px;
 }
-
-@media (max-width: 375px) {
-  .container {
-    padding: 0 15px;
-  }
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
